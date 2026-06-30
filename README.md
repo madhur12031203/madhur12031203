@@ -2,7 +2,7 @@
 
 # Hey, I'm Madhur Gupta 👋
 
-**Full-Stack Development | Data Science & AI Enthusiast · 2nd Year CS @ Dronacharya College of Engineering**
+**Full-Stack Development | Data Science & AI Enthusiast · 3rd Year CS @ Dronacharya College of Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-gupta1203/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhur12031203@gmail.com)
