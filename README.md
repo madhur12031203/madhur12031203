@@ -30,9 +30,9 @@
 
 ### 📊 GitHub Stats
 
-![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhur12031203&show_icons=true&theme=radical&hide_border=true)
+![Madhur's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=madhur12031203&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhur12031203&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhur12031203&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=madhur12031203&theme=radical&hide_border=true)
 
