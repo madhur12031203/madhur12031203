@@ -1,6 +1,6 @@
 ```text
                                        whoami: ........ Madhur Gupta
-      ███╗   ███╗ ██████╗              OS: ............ Linux
+      ███╗   ███╗ ██████╗              OS: ............ Windows
       ████╗ ████║██╔════╝              Kernel: ......... B.Tech CSE, Dronacharya '28
       ██╔████╔██║██║  ███╗             CGPA: .......... 8.1 / 10
       ██║╚██╔╝██║██║   ██║             Role: .......... Data Science & AI Intern @ IIT Jammu
@@ -34,7 +34,6 @@
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhur12031203&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=madhur12031203&theme=radical&hide_border=true)
 
 </div>
 
