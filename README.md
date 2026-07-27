@@ -34,7 +34,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhur12031203&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhur12031203&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=madhur12031203&theme=radical&hide_border=true)
 
 </div>
 
