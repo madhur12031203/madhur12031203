@@ -1,70 +1,50 @@
+```text
+                                       whoami: ........ Madhur Gupta
+      ███╗   ███╗ ██████╗              OS: ............ Linux
+      ████╗ ████║██╔════╝              Kernel: ......... B.Tech CSE, Dronacharya '28
+      ██╔████╔██║██║  ███╗             CGPA: .......... 8.1 / 10
+      ██║╚██╔╝██║██║   ██║             Role: .......... Data Science & AI Intern @ IIT Jammu
+      ██║ ╚═╝ ██║╚██████╔╝             Languages: ..... Python, C++, Java, JS/TS, R
+      ╚═╝     ╚═╝ ╚═════╝              ML/DS Stack: ... Pandas, NumPy, Scikit-learn, SHAP, SMOTE
+                                       Web Stack: ..... React, TypeScript, Supabase, REST APIs
+                                       Currently: ..... Building AI + full-stack projects
+                                       Rank: .......... Top 1,500 Global, Google Big Code 2026
+                                       Contact: ........ madhur12031203@gmail.com
+                                       Location: ....... New Delhi, India
+```
+
 <div align="center">
 
-# Hey, I'm Madhur Gupta 👋
+### 🚀 Featured Projects
 
-**Full-Stack Development | Data Science & AI Enthusiast · 3rd Year CS @ Dronacharya College of Engineering**
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-gupta1203/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhur12031203@gmail.com)
+| Project | What it does | Stack |
+|---|---|---|
+| [**Credit Card Fraud Anomaly Detection**](https://github.com/madhur12031203/CreditCardFraudDetection) | Fraud detection on a 0.17% fraud-rate dataset — Logistic Regression vs SMOTE vs Isolation Forest, tuned against a review-capacity constraint, with SHAP explainability and a live Streamlit app | Python, Scikit-learn, Imbalanced-learn, SHAP, Streamlit |
+| [**Healthcare Diagnostics & Triage System**](https://github.com/madhur12031203/HealthcareTriageSystem) | Patient risk-tier classifier fusing TF-IDF symptom text with clinical vitals under class imbalance — 93.3% recall on critical cases, SHAP explainability, live triage app | Python, NLTK, Scikit-learn, SMOTE, SHAP, Streamlit |
+| [**Buyoh — AI Fashion Retail Platform**](https://github.com/madhur12031203/buyoh-Ai) | Conversational AI styling assistant with human-in-the-loop escalation, built for Aditya Birla Fashion & Retail, plus a scalable React + TypeScript component library | React, TypeScript, Conversational AI |
+| [**Campus Ride — Algorand Escrow Ride-Sharing**](https://github.com/madhur12031203/Campus-Ride---Algorand-Escrow-Ridesharing) | Full-stack ride-sharing app with Supabase Realtime and an Algorand Testnet escrow smart contract locking/releasing payment on ride status | React, Supabase Realtime, Algorand SDK |
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhur12031203&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhur12031203&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhur12031203&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-### About Me
-
-- 🔭 &nbsp; Building full-stack and blockchain-based applications
-- 🏆 &nbsp; Ranked **Top 1,500** in Google Big Code 2026
-- ⚡ &nbsp; Built a production-ready blockchain MRV system at **Smart India Hackathon 2025**
-- 🌱 &nbsp; Currently exploring AI integrations and Web3 development
-- 💼 &nbsp; Open to **SDE Internships**
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Decentralized Ride-Sharing**](#) | Campus ride-sharing with Algorand blockchain escrow payments | Next.js, TypeScript, Supabase, Algorand SDK |
-| [**Buyoh**](#) | AI-powered fashion retail platform with conversational styling assistant | React, TypeScript, AI APIs |
-| [**AquaChain**](#) | Blockchain-based Blue Carbon MRV system · SIH 2025 | React, Node.js, REST APIs, Blockchain |
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Database & Cloud**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Blockchain & Tools**
-![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**AI Tools**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 📜 Certifications
-
-- 🎓 The Joy of Computing Using Python — **NPTEL**
-- 🎓 Data Structures Using C Programming — **NPTEL**
-
----
-
 <div align="center">
 
-*"Building one commit at a time."*
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-gupta1203/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhur12031203@gmail.com)
 
 </div>
