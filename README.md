@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering, Dronacharya College of Engineering, Gurugram (2024 – 2028) | CGPA: 8.1/10
-- 💼 Currently interning as a **Software Engineering / Data Science & AI Intern** at **IIT Jammu – I3C & Techible** (Jun 2026 – Aug 2026)
+- 🎓 B.Tech in Computer Science and Engineering, Dronacharya College of Engineering, Gurugram (2024 – 2028) | CGPA: 8.3/10
+- 💼 Interned as a **Software Engineering / Data Science & AI Intern** at **IIT Jammu – I3C & Techible** (Jun 2026 – Aug 2026)
 - 🛠️ Building end-to-end products across **full-stack web development**, **machine learning**, and **blockchain-based applications**
 - 📊 Passionate about turning raw data into actionable insights and shipping production-ready ML pipelines
 - 🌱 Currently exploring **Agentic AI, Claude tooling, and Web3**
@@ -99,7 +99,7 @@ AI-driven fashion retail platform with a responsive product catalog and a conver
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhur12031203&show_icons=true&theme=radical&count_private=true" alt="Madhur's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhur12031203&theme=radical" alt="Madhur's GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=madhur12031203&theme=radical" alt="Madhur's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
