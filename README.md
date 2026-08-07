@@ -12,9 +12,8 @@
 
 - 🎓 B.Tech in Computer Science and Engineering, Dronacharya College of Engineering, Gurugram (2024 – 2028) | CGPA: 8.3/10
 - 💼 Interned as a **Software Engineering / Data Science & AI Intern** at **IIT Jammu – I3C & Techible** (Jun 2026 – Aug 2026)
-- 🛠️ Building end-to-end products across **full-stack web development**, **machine learning**, and **blockchain-based applications**
+- 🛠️ Building end-to-end products across **full-stack web development**, **machine learning** and **Data Analysis**
 - 📊 Passionate about turning raw data into actionable insights and shipping production-ready ML pipelines
-- 🌱 Currently exploring **Agentic AI, Claude tooling, and Web3**
 - 📫 Reach me at **madhur12031203@gmail.com**
 - 📍 Based in New Delhi, India
 
@@ -36,7 +35,6 @@
 **Frontend & Backend**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
