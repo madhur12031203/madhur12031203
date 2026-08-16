@@ -93,19 +93,6 @@ AI-driven fashion retail platform with a responsive product catalog and a conver
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhur12031203&show_icons=true&theme=radical&count_private=true" alt="Madhur's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=madhur12031203&theme=radical" alt="Madhur's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhur12031203&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
