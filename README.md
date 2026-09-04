@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhur Gupta</h1>
 <h3 align="center">Software Engineer | Data Science & AI Enthusiast | B.Tech CSE @ Dronacharya College of Engineering</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhur12031203&label=Profile%20Views&color=blueviolet&style=flat" alt="madhur12031203" />
-  <img src="https://img.shields.io/github/followers/madhur12031203?label=Followers&style=flat&color=blue" alt="followers" />
-</p>
-
 ---
 
 ### 🚀 About Me
