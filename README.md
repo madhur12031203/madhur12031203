@@ -14,7 +14,6 @@
   <a href="https://github.com/madhur12031203" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 </div>
@@ -91,27 +90,27 @@
 - **Impact & Metrics**: Fused model achieved **Macro F1 of 0.931** (beating text-only `0.909` and vitals-only `0.642` baselines) and lifted Critical-tier recall to **93.3%**.
 - **Tech Stack**: `Python`, `Scikit-learn`, `TF-IDF`, `SMOTE`, `SHAP`, `Streamlit`
 - **Features**: Implemented SMOTE rebalancing, feature importance analysis via SHAP, and an interactive Streamlit triage dashboard for clinical simulation.
-- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
+- 🔗 `[Repository]`(https://github.com/madhur12031203) · 
 
 #### 💳 Imbalanced Financial Anomaly & Fraud Detection Engine
 > **End-to-end fraud detection pipeline optimized for extreme class imbalance (0.17% fraud rate).**
 - **Impact & Metrics**: Evaluated Logistic Regression, SMOTE-regularized models, and Isolation Forests under strict review-capacity constraints.
 - **Tech Stack**: `Python`, `Scikit-learn`, `Isolation Forest`, `Precision-Recall Tuning`, `Streamlit`
 - **Features**: Threshold calibration against operational review capacity; interactive single & batch CSV scoring interface.
-- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
+- 🔗 `[Repository]`(https://github.com/madhur12031203) · 
 
 #### 🚗 Campus Ride — Decentralized Escrow Ride-Sharing App
 > **Full-stack smart-contract backed ride-sharing system on Algorand Testnet.**
 - **Architecture**: Integrated Supabase Realtime for instant ride matching and live status streaming with wallet-based authentication.
 - **Tech Stack**: `React`, `Next.js`, `Supabase Realtime`, `Algorand SDK`, `AlgoKit`, `Pera Wallet`
 - **Features**: Automated escrow smart contracts locking rider funds on pickup acceptance and releasing upon trip validation.
-- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
+- 🔗 `[Repository]`(https://github.com/madhur12031203) ·
 
 #### 👗 Buyoh — Conversational AI Fashion Platform
 > **E-commerce platform with automated conversational stylists and human-in-the-loop support.**
 - **Tech Stack**: `React`, `TypeScript`, `Tailwind CSS`, `Conversational AI`, `Node.js`
 - **Features**: Modular component architecture reducing UI iteration cycle by 35%; dynamic outfit recommendation workflow.
-- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
+- 🔗 `[Repository]`(https://github.com/madhur12031203) · 
 
 ---
 
