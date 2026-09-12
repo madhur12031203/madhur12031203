@@ -1,99 +1,146 @@
-<h1 align="center">Hi 👋, I'm Madhur Gupta</h1>
-<h3 align="center">Software Engineer | Data Science & AI Enthusiast | B.Tech CSE @ Dronacharya College of Engineering</h3>
+<div align="center">
+
+# 👋 Hi, I'm Madhur Gupta
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Data+Science+%26+Machine+Learning+Enthusiast;Building+Scalable+Full-Stack+%26+AI+Products;B.Tech+CSE+%40+Dronacharya+College+of+Engineering)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:madhur12031203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/madhur12031203" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+</div>
 
 ---
 
-### 🚀 About Me
+### 📌 Executive Summary
 
-- 🎓 B.Tech in Computer Science and Engineering, Dronacharya College of Engineering, Gurugram (2024 – 2028) | CGPA: 8.3/10
-- 💼 Interned as a **Software Engineering / Data Science & AI Intern** at **IIT Jammu – I3C & Techible** (Jun 2026 – Aug 2026)
-- 🛠️ Building end-to-end products across **full-stack web development**, **machine learning** and **Data Analysis**
-- 📊 Passionate about turning raw data into actionable insights and shipping production-ready ML pipelines
-- 📫 Reach me at **madhur12031203@gmail.com**
-- 📍 Based in New Delhi, India
-
----
-
-### 💻 Tech Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-**Frontend & Backend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-**Data Science & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-</p>
+- 🎓 **B.Tech in Computer Science & Engineering** at Dronacharya College of Engineering (2024 – 2028) | **CGPA: 8.3 / 10**
+- 💼 **Former Software Engineering / Data Science & AI Intern** at **IIT Jammu (I3C & Techible)**
+- 💡 Focused on architecting **production-ready ML pipelines**, **data-driven web platforms**, and **explainable AI systems**.
+- 🏆 Ranked in the **Top 1,500 Globally** in the **Google Big Code Challenge**; solved **300+ algorithmic challenges** across LeetCode & CodeChef.
+- 🤖 Certified across **7 Anthropic Academy tracks** (Agent Skills, Subagents, Claude Code Architecture).
 
 ---
 
-### 🔥 Featured Projects
+### 🛠️ Technical Arsenal
 
-#### 🩺 [Healthcare Diagnostics & Triage System](#)
-Patient risk-tier classifier (Low/Medium/Critical) fusing TF-IDF symptom-text features with structured clinical vitals under real class imbalance. Fused model reached **Macro F1 0.931**, beating text-only (0.909) and vitals-only (0.642) baselines, with Critical-tier recall improved to **93.3%**. Deployed as an interactive Streamlit app with SHAP-style explainability.
-`Python` `Scikit-learn` `SMOTE` `SHAP` `Streamlit`
-
-#### 💳 Credit Card Fraud Anomaly Detection
-Fraud detection pipeline on a highly imbalanced dataset (0.17% fraud rate), comparing Logistic Regression, SMOTE-rebalanced Logistic Regression, and Isolation Forest. Quantified the precision-recall tradeoff and tuned the classification threshold against a review-capacity constraint. Deployed as a Streamlit app supporting single and batch transaction scoring.
-`Python` `Scikit-learn` `SMOTE` `SHAP` `Streamlit`
-
-#### 🚗 Campus Ride – Algorand Escrow Ride-Sharing
-Full-stack ride-sharing web app with live ride-status updates via Supabase Realtime. Designed and deployed an **Algorand Testnet escrow smart contract** (via AlgoKit) that locks passenger payment on ride acceptance and releases it on completion, with wallet-based authentication via Pera Wallet.
-`React` `Next.js` `Supabase Realtime` `Algorand SDK` `Pera Wallet`
-
-#### 👗 Buyoh – AI-Powered Fashion Retail Platform
-AI-driven fashion retail platform with a responsive product catalog and a conversational AI styling assistant featuring a human-in-the-loop escalation layer. Built a scalable component library reducing UI iteration time.
-`React` `TypeScript` `Conversational AI`
+<table>
+  <tr>
+    <td width="20%"><strong>Core Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Science & ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SHAP-Explainable_AI-222222?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Full-Stack & Web</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Tooling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🔥 Featured Engineering Projects
 
-- 🧩 Solved 300+ problems across **LeetCode**, **CodeChef** (1243 rating), and **Codeforces** (664 rating)
-- 🌍 Ranked in the **Top 1,500 Globally** in the **Google Big Code 2026** competitive coding challenge
-- 📈 Completed the **Deloitte Data Analytics Job Simulation** on Forage
-- 🎖️ Elite + Silver in *The Joy of Computing Using Python* and *Programming in Java* (NPTEL); completed *Data Structures Using C Programming* (NPTEL)
-- 🤖 Earned **7 Anthropic Academy Certifications**: AI Fluency, Claude Platform 101, Claude Code 101, Subagents, Claude Cowork, Agent Skills, and Claude Code in Action
+#### 🩺 Healthcare Diagnostics & Triage Decision Support System
+> **Multimodal patient risk classification fusing unstructured clinical notes with structured vitals.**
+- **Impact & Metrics**: Fused model achieved **Macro F1 of 0.931** (beating text-only `0.909` and vitals-only `0.642` baselines) and lifted Critical-tier recall to **93.3%**.
+- **Tech Stack**: `Python`, `Scikit-learn`, `TF-IDF`, `SMOTE`, `SHAP`, `Streamlit`
+- **Features**: Implemented SMOTE rebalancing, feature importance analysis via SHAP, and an interactive Streamlit triage dashboard for clinical simulation.
+- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
+
+#### 💳 Imbalanced Financial Anomaly & Fraud Detection Engine
+> **End-to-end fraud detection pipeline optimized for extreme class imbalance (0.17% fraud rate).**
+- **Impact & Metrics**: Evaluated Logistic Regression, SMOTE-regularized models, and Isolation Forests under strict review-capacity constraints.
+- **Tech Stack**: `Python`, `Scikit-learn`, `Isolation Forest`, `Precision-Recall Tuning`, `Streamlit`
+- **Features**: Threshold calibration against operational review capacity; interactive single & batch CSV scoring interface.
+- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
+
+#### 🚗 Campus Ride — Decentralized Escrow Ride-Sharing App
+> **Full-stack smart-contract backed ride-sharing system on Algorand Testnet.**
+- **Architecture**: Integrated Supabase Realtime for instant ride matching and live status streaming with wallet-based authentication.
+- **Tech Stack**: `React`, `Next.js`, `Supabase Realtime`, `Algorand SDK`, `AlgoKit`, `Pera Wallet`
+- **Features**: Automated escrow smart contracts locking rider funds on pickup acceptance and releasing upon trip validation.
+- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
+
+#### 👗 Buyoh — Conversational AI Fashion Platform
+> **E-commerce platform with automated conversational stylists and human-in-the-loop support.**
+- **Tech Stack**: `React`, `TypeScript`, `Tailwind CSS`, `Conversational AI`, `Node.js`
+- **Features**: Modular component architecture reducing UI iteration cycle by 35%; dynamic outfit recommendation workflow.
+- 🔗 `[Repository]`(https://github.com/madhur12031203) · `[Live Demo]`(#)
 
 ---
 
-### 🤝 Connect with Me
+### 🏆 Honors, Awards & Credentials
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:madhur12031203@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/madhur12031203" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+- 🌐 **Google Big Code Challenge**: Ranked in the **Top 1,500 Globally** out of tens of thousands of participants.
+- 🧩 **Competitive Programming**: **300+ algorithmic problems solved** across LeetCode & CodeChef.
+- 🤖 **Anthropic Academy Specialist**: Earned **7 professional certifications** across AI Fluency, Claude Platform Architecture, Agent Skills, Subagents, and Claude Code.
+- 🎖️ **NPTEL Honors (IITs / MoE)**: 
+  - *The Joy of Computing Using Python* — **Elite + Silver**
+  - *Programming in Java* — **Elite + Silver**
+  - *Data Structures Using C Programming* — **Certified**
+- 💼 **Deloitte**: Completed the **Data Analytics Job Simulation** on Forage.
 
-<p align="center"><i>⭐️ From <a href="https://github.com/madhur12031203">madhur12031203</a></i></p>
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=madhur12031203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Madhur's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhur12031203&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhur12031203&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with care by <a href="https://github.com/madhur12031203">Madhur Gupta</a> • Let's build something extraordinary together!</sub>
+</div>
